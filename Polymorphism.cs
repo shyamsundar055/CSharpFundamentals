@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace CSharpFundamentals
+﻿namespace CSharpFundamentals
 {
+    //Reference doc: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism
+
     public class Polymorphism
     {
         #region Implementations of Dynamic or Runtime or Late binding (Virtual/Overriding) 
